@@ -33,4 +33,5 @@ return [
     'send_reset_password_link'  => 'Send Reset Password Link',
     'change_password_success'   => 'Your password has changed',
     'change_password_error'    => 'Uh-oh, change password failed',
+    "remember_me"              => "Remember me"
 ];
