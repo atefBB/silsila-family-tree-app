@@ -7,6 +7,7 @@
     "require": {
         "php": "^7.3",
         "backup-manager/laravel": "^2.0",
+        "barryvdh/laravel-translation-manager": "^0.5.10",
         "fideloper/proxy": "^4.0",
         "laravel-lang/lang": "^10.1",
         "laravel/framework": "^7.0",
