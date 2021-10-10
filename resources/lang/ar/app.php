@@ -1,7 +1,7 @@
 <?php
 
 return array (
-  'address' => 'عنوان',
+  'address' => 'العنوان',
   'cancel' => 'إلغاء',
   'child_count' => 'عدد اﻷبناء',
   'city' => 'المدينة',
@@ -11,4 +11,16 @@ return array (
   'female' => 'أنثى',
   'male' => 'ذكر',
   'my_profile' => 'حسابي',
+  'contact' => 'الاتصال',
+  'example' => 'مثال',
+  'family_tree' => 'شجرة العائلة',
+  'female_code' => 'أنثى',
+  'grand_child_count' => 'عدد اﻷبناء الكبار',
+  'login_account' => 'تسجيل الدخول إلى الحساب',
+  'male_code' => 'ذكر',
+  'phone' => 'رقم الهاتف',
+  'family_chart' => 'مخطط العائلة',
+  'search_your_family' => 'البحث عن العائلة',
+  'search' => 'ابحث',
+  'restore' => 'إعادة',
 );
