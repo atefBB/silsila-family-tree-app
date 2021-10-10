@@ -2,9 +2,6 @@
 
 <h1 align="center">Genealogy Application</h1>
 
-[![Build Status](https://travis-ci.org/nafiesl/silsilah.svg?branch=master)](https://travis-ci.org/nafiesl/silsilah)
-[![Coverage Status](https://coveralls.io/repos/github/nafiesl/silsilah/badge.svg?branch=master)](https://coveralls.io/github/nafiesl/silsilah?branch=master)
-
 > **Development in progress**  
 > In development progress, any changes of table structure **will be updated** directly to corresponding **migration file**.
 >
@@ -59,8 +56,8 @@ This application can be installed on local server and online server with these s
 
 ### Installation Steps
 
-1. Clone the repo : `git clone https://github.com/nafiesl/silsilah.git`
-2. `cd silsilah`
+1. Clone the repo : `git clone https://github.com/nafiesl/atefBB/silsila-family-tree-app.git`
+2. `cd silsila-family-tree-app`
 3. `composer install`
 4. `cp .env.example .env`
 5. `php artisan key:generate`
